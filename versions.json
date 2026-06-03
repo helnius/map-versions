@@ -2,11 +2,11 @@
   "resources": {
     "cfx-helnius-fleeca-bank": {
       "version": "1.0.0",
-      "message": "New version available. ^3Update and view the changelog on https://portal.cfx.re."
+      "message": "New version available. Update and view the changelog on https://portal.cfx.re."
     },
     "cfx-helnius-vespucci-hospital": {
       "version": "1.0.0",
-      "message": "New version available. ^3Update and view the changelog on https://portal.cfx.re."
+      "message": "New version available. Update and view the changelog on https://portal.cfx.re."
     }
   }
 }
