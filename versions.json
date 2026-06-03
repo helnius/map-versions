@@ -4,8 +4,80 @@
       "version": "1.0.0",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
+    "cfx-helnius-fleeca-bank": {
+      "version": "1.0.0",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
     "cfx-helnius-vespucci-hospital": {
       "version": "1.0.0",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "ext-pdm-del-perro": {
+      "version": "1.0.3-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "ext-pdm-downtown": {
+      "version": "1.0.2-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "helnius-carlift-script": {
+      "version": "1.0.0-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "helnius-map-data": {
+      "version": "1.0-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-alta-policestation": {
+      "version": "1.1.7-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-bilingsgate-motel": {
+      "version": "0.9-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-bite": {
+      "version": "1.2.2-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-elec-container": {
+      "version": "1.0.2-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-haos-special-works": {
+      "version": "1.0.2-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-little-seoul-polstation": {
+      "version": "1.1.4-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-pdm-cardealer": {
+      "version": "1.0.4-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-pharmacy": {
+      "version": "1.0-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-pinkcage-motel": {
+      "version": "1.0.3-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-portacabin": {
+      "version": "1.2.1-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-splitsides": {
+      "version": "1.0-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "int-xero24": {
+      "version": "1.0.1-release",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "shell-helnius-garages": {
+      "version": "1.0.1-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     }
   }
