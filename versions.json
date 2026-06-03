@@ -3,6 +3,10 @@
     "cfx-helnius-fleeca-bank": {
       "version": "1.0.0",
       "message": "^1^3New version available. Update and view the changelog on ^0https://portal.cfx.re"
+    },
+    "my-hud": {
+      "version": "1.5.0",
+      "message": "^3Päivitä my-hud!"
     }
   }
 }
