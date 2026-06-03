@@ -4,9 +4,9 @@
       "version": "1.0.0",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
-    "my-hud": {
-      "version": "1.5.0",
-      "message": "^3Päivitä my-hud!"
-    }
+    "cfx-helnius-vespucci-hospital": {
+      "version": "1.0.0",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
+    },
   }
 }
