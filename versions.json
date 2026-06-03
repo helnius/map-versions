@@ -2,7 +2,7 @@
   "resources": {
     "cfx-helnius-fleeca-bank": {
       "version": "1.0.0",
-      "message": "^1^3New version #00FF00available. Update and view the changelog on ^0https://portal.cfx.re"
+      "message": "^1^3New version 2#00FF00available. Update and view the changelog on ^0https://portal.cfx.re"
     },
     "my-hud": {
       "version": "1.5.0",
