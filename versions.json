@@ -1,23 +1,23 @@
 {
   "resources": {
     "cfx-helnius-fleeca-bank": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-vespucci-hospital": {
-      "version": "1.0.7",
+      "version": "1.0.8",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pdm-delperro-ext": {
-      "version": "1.0.3-release",
+      "version": "1.0.4-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pdm-downtown-ext": {
-      "version": "1.0.2-release",
+      "version": "1.0.3-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pdm-interior": {
-      "version": "1.0.4-release",
+      "version": "1.0.5-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-carlift-script": {
@@ -29,35 +29,35 @@
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-alta-policestation": {
-      "version": "1.1.7-release",
+      "version": "1.1.8-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-bilingsgate-motel": {
-      "version": "0.9-release",
+      "version": "1.0-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-bite": {
-      "version": "1.2.3-release",
+      "version": "1.2.4-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-elec-container": {
-      "version": "1.0.2-release",
+      "version": "1.0.3-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-haos-special-works": {
-      "version": "1.0.3-release",
+      "version": "1.0.4-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-little-seoul-polstation": {
-      "version": "1.1.4-release",
+      "version": "1.1.5-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pharmacy": {
-      "version": "1.0.1-release",
+      "version": "1.0.2-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pinkcage-motel": {
-      "version": "1.0.3-release",
+      "version": "1.0.4-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-portacabin": {
@@ -65,11 +65,11 @@
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-splitsides": {
-      "version": "1.0.1-release",
+      "version": "1.0.2-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-xero24": {
-      "version": "1.0.1-release",
+      "version": "1.0.2-release",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-helnius-garage-shells": {
