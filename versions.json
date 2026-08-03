@@ -9,8 +9,8 @@
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-vespucci-hospital": {
-      "version": "1.0.7",
-      "message": "Rollback to a version 1.0.7, 1.0.8 version currently has some crashing issues, I'll try to resolve the issues as fast as possible, sorry for the inconvenience."
+      "version": "1.0.9",
+      "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-pdm-delperro-ext": {
       "version": "1.0.4-release",
