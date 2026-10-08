@@ -1,7 +1,7 @@
 {
   "resources": {
     "cfx-helnius-tower": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-tower-bank": {
@@ -9,7 +9,7 @@
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-tower-hotel": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "message": "^1^2New version available. ^0^3Update and view the changelog on ^0https://portal.cfx.re"
     },
     "cfx-helnius-fleeca-bank": {
